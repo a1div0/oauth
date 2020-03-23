@@ -1,3 +1,3 @@
-module github.org/a1div0/oauth
+module github.com/a1div0/oauth
 
 go 1.12
